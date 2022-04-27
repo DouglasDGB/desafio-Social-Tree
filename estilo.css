@@ -1,0 +1,32 @@
+body{
+    background-color: #FAF7FD;
+}
+
+.imagem {
+    border-radius: 50%;
+    border: solid #BB99DD;
+}
+
+center {
+    padding-top: 30px;
+}
+
+.botao {
+    border: solid #BB99DD 2px;
+    width: 250px;
+    height: 30px;
+    font-family: Poppins ;
+    font-weight: 600;
+    color: #BB99DD;
+    border-radius: 5px;
+    background-color: #FAF7FD;
+    margin-bottom: 15px;
+}
+
+.texto {
+    color: #BB99DD;
+    font-family: Poppins ;
+    font-weight: 300;
+    
+}
+
